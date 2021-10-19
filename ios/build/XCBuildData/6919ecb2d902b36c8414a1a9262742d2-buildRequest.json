@@ -1,0 +1,47 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ccaa27ccd78322bc690b3e52ceb85406"
+    }
+  ],
+  "containerPath" : "/Users/pavelprystinka/Documents/Flutter_learning/calling_app/ios/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "arm64 x86_64",
+          "BUILD_ROOT" : "/Users/pavelprystinka/Library/Developer/Xcode/DerivedData/Runner-bbderjkdvuflphagngsppnhljqnc/Build/Products",
+          "BUILT_PRODUCTS_DIR" : "/Users/pavelprystinka/Documents/Flutter_learning/calling_app/build/ios/Debug-iphonesimulator/MicrosoftFluentUI",
+          "CONFIGURATION_BUILD_DIR" : "/Users/pavelprystinka/Documents/Flutter_learning/calling_app/build/ios/Debug-iphonesimulator/MicrosoftFluentUI",
+          "SDKROOT" : "iphonesimulator15.0",
+          "TOOLCHAINS" : "com.apple.dt.toolchain.XcodeDefault"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      },
+      "toolchainOverride" : "com.apple.dt.toolchain.XcodeDefault"
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
